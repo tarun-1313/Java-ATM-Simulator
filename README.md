@@ -40,6 +40,7 @@ ATM-Project/
 ├── atm.jpg # ATM background image
 └── rupee.png # Rupee animation image
 
+![Image Alt](![image](https://github.com/tarun-1313/Java-ATM-Simulator/blob/main/Screenshot%202025-07-30%20122332.png))
 ## 🚀 Getting Started
 
 ### Run the Project
