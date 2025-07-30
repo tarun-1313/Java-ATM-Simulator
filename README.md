@@ -40,7 +40,16 @@ ATM-Project/
 ├── atm.jpg # ATM background image
 └── rupee.png # Rupee animation image
 
-![Image Alt](![image](https://github.com/tarun-1313/Java-ATM-Simulator/blob/main/Screenshot%202025-07-30%20122332.png))
+<img width="1908" height="961" alt="Screenshot 2025-07-30 122332" src="https://github.com/user-attachments/assets/6292b84e-ff52-44c5-8ed6-9791eba5a7a3" />
+<img width="1914" height="985" alt="Screenshot 2025-07-30 122343" src="https://github.com/user-attachments/assets/e7664657-fcb4-4e90-b276-bfb11a771589" />
+<img width="1919" height="963" alt="Screenshot 2025-07-30 122358" src="https://github.com/user-attachments/assets/091693c4-b3f0-4d51-b8d8-bb4f52f4bef3" />
+<img width="1915" height="1029" alt="Screenshot 2025-07-30 122411" src="https://github.com/user-attachments/assets/cc73abe4-e890-4e1b-b2c7-fcf9eaa2bc3a" />
+<img width="1896" height="974" alt="Screenshot 2025-07-30 122442" src="https://github.com/user-attachments/assets/7c4b7674-8289-4d91-b1c5-66982550431a" />
+<img width="1881" height="943" alt="Screenshot 2025-07-30 122505" src="https://github.com/user-attachments/assets/fc8769c5-84ec-4117-a16d-cc2a51ef5290" />
+<img width="1844" height="964" alt="Screenshot 2025-07-30 122533" src="https://github.com/user-attachments/assets/e590632d-ebe3-4d7c-808c-8d11b927c98a" />
+
+
+
 ## 🚀 Getting Started
 
 ### Run the Project
